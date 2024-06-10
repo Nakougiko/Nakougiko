@@ -4,7 +4,7 @@
 
 - 🔎 Étudiant en BTS Systèmes Numériques option Informatique et Réseaux
 - 📚 Passionné par la technologie et le développement logiciel
-- 🌱 À la recherche d'une alternance aux alentours de Douai pour compléter mon cursus avec un Bachelor en Conception et Réalisation de Solutions Logicielles
+- 🌱 À la recherche d'une alternance aux alentours de Lille pour compléter mon cursus avec un Bachelor en Conception et Réalisation de Solutions Logicielles
 
 ## Compétences/Outils 💻
 
