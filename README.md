@@ -25,9 +25,13 @@
   [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - 🧩 Outils de collaboration : <br/>
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-  [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+  [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) <br/>
+  [![Word](https://img.shields.io/badge/Word-%230072C6.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
+  [![Excel](https://img.shields.io/badge/Excel-%2371B23C.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+  [![PowerPoint](https://img.shields.io/badge/PowerPoint-%23DC5034.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 ## Me contacter 📧
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](goulois.lukas@gmail.com)
