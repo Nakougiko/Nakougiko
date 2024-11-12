@@ -2,9 +2,9 @@
 
 ## À propos de moi ℹ️
 
-- 🔎 Étudiant en BTS Systèmes Numériques option Informatique et Réseaux
+- 🔎 Étudiant en Licence professionnelle Métiers de l'informatique parcours Développement d'applications Web et Mobile
 - 📚 Passionné par la technologie et le développement logiciel
-- 🌱 À la recherche d'une alternance aux alentours de Lille pour compléter mon cursus avec un Bachelor en Conception et Réalisation de Solutions Logicielles
+- 🌱 À la recherche d'un stage aux alentours de Lille et Douai pour compléter mon cursus
 
 ## Compétences/Outils 💻
 
